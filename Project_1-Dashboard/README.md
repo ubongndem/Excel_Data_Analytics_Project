@@ -1,12 +1,11 @@
 # Excel Salary Dashboard
 
-![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
+<img width="1400" height="625" alt="salary_dashboard" src="https://github.com/user-attachments/assets/19bbb838-3954-43b6-ae7d-db21cf0f6f5f" />
+
 
 ## Introduction
 
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated. 
-
-The data is from my Excel course, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
 
 ### Dashboard File
 My final dashboard is in [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx).
@@ -21,7 +20,7 @@ The following Excel skills were utilized for analysis:
 
 ### Data Jobs Dataset
 
-The dataset used for this project contains real-world data science job information from 2023. The dataset is available via my Excel course, which provides a foundation for analyzing data using Excel. It includes detailed information on:
+The dataset used for this project contains real world data science job information from 2023. It includes detailed information on:
 
 - **👨‍💼 Job titles**
 - **💰 Salaries**
@@ -78,7 +77,8 @@ IF(
 
 📉 Dashboard Implementation
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
+<img width="581" height="713" alt="job_title" src="https://github.com/user-attachments/assets/ac4b147a-29a3-4000-9cb1-bb25d99b329b" />
+
 
 #### ⏰ Count of Job Schedule Type
 
@@ -95,7 +95,8 @@ IF(
 
 📉 Dashboard Implementation:
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
+<img width="631" height="718" alt="job_type" src="https://github.com/user-attachments/assets/cc9e1ce6-14c5-44e1-ab2f-eb3b98ec42b0" />
+
 
 ### ❎ Data Validation
 
@@ -110,4 +111,4 @@ IF(
 
 ## Conclusion
 
-I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
+I created this dashboard to explore salary trends across different data-related job titles. It provides insights into how factors like location and job type can influence salaries and help with career decisions.
